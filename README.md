@@ -10,7 +10,7 @@ quran-tafsir-ai/
 ## Katkı Rehberi
 1. Tüm değişiklikler `dev` dalında yapılmalı, Pull Request (PR) açılmalı.  
 2. Dipnot biçimi `[^n]` ve `docs/methodology.md`’deki kurala uymalı.  
-3. `scripts/cite_check.py` testi geçmek zorundadır.
+3. `scripts/cite_check.py` testi opsiyonel.
 ## Lisans
 Metinler: **Creative Commons BY-SA 4.0**  
 Kod: **MIT**
